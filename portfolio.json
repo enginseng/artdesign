@@ -25,5 +25,14 @@
         "description": "boyandı gibi birşey",
         "date": "2026-10-18",
         "order": 1
+    },
+    {
+        "id": "1792356520",
+        "filename": "images/art_1792356520.jpg",
+        "title": "",
+        "category": "Other",
+        "description": "",
+        "date": "2026-10-18",
+        "order": 4
     }
 ]
