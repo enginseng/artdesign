@@ -1,20 +1,29 @@
 [
-  {
-    "id": "1",
-    "filename": "images/ornek_resim.jpg",
-    "title": "Siberpunk Karakter",
-    "category": "Karakter Tasarımı",
-    "description": "Procreate ile 2 saatte çizildi.",
-    "date": "2026-10-18",
-    "order": 1
-  },
-  {
-    "id": "2",
-    "filename": "images/ornek_resim.jpg",
-    "title": "Göz Eskizi",
-    "category": "Karakalem",
-    "description": "HB ve 4B kalem ile kağıt üzerine.",
-    "date": "2026-10-15",
-    "order": 2
-  }
+    {
+        "id": "1",
+        "filename": "images/ornek_resim.jpg",
+        "title": "Siberpunk Karakter",
+        "category": "Karakter Tasarımı",
+        "description": "Procreate ile 2 saatte çizildi.",
+        "date": "2026-10-18",
+        "order": 1
+    },
+    {
+        "id": "2",
+        "filename": "images/ornek_resim.jpg",
+        "title": "Göz Eskizi",
+        "category": "Karakalem",
+        "description": "HB ve 4B kalem ile kağıt üzerine.",
+        "date": "2026-10-15",
+        "order": 2
+    },
+    {
+        "id": "1792351031",
+        "filename": "images/art_1792351031.jpg",
+        "title": "y-ornek2",
+        "category": "Dijital Boyama",
+        "description": "boyandı gibi birşey",
+        "date": "2026-10-18",
+        "order": 1
+    }
 ]
